@@ -1,0 +1,20 @@
+PURPOSE: USER WILL BE ABLE TO CHECK AVAILABLE DATA BY LOGINGGING TO ACCOUNT BY USING USERNAME AND PASSWORD.
+
+MODULE 1:
+FEATURES:
+Login screen should contain username, password,, Login, Clear and cancel buttons
+Username and password should be marked as mandatory fields.
+Upon entering the valid username and password and clicking on login button corresponding page should be displayed
+Upon entering some information into any of the fields and clicking on clear button all the fields must be cleared and the cursor should be displayed in the username field.
+Upon clicking on cancel button, login screen must be closed.
+Initially whenever the login screen is invoked login and clear buttons must be disabled.
+Cancel button must be always enabled
+Upon entering information into any of the fields clear button must be enabled
+Upon entering some information into both username and password fields Login button must be enabled.
+Tabbing order must be Username, Password, Connect to, Login, Clear and Cancel.
+
+
+
+
+
+
